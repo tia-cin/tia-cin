@@ -6,7 +6,8 @@
 
 - 🌱 I’m currently learning **Typescript, React Native**<br>
 
-- 📫 How to reach me **cintiaayelenarce@gmail.com**<br>
+- 📫 My linkedId profile <a href='www.linkedin.com/in/cintia-arce-profile'>here</a>
+<br>
 
 
 <h3 align="left">Languages and Tools:</h3>
