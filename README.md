@@ -2,11 +2,11 @@
 <h3 align="center">A full-stack developer in progress</h3>
 <br>
 
-- 🔭 I’m currently interested in **frontend development**<br>
+- 🔭 I’m currently interested in **Frontend Development**<br>
 
-- 🌱 I’m currently learning **Typescript, React Native**<br>
+- 🌱 I’m currently learning **Typescript**<br>
 
-- 📫 My linkedId profile <a href='www.linkedin.com/in/cintia-arce-profile'>here</a>
+- 📫 My LinkedId profile <a href='www.linkedin.com/in/cintia-arce-profile'>here</a>
 <br>
 
 
