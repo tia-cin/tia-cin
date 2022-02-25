@@ -7,9 +7,9 @@
 <br>
 <div align='center'> 
     
-<p>🔭 Interested in **Frontend Development**</p><br>
+<p>🔭 Interested in Frontend Development</p><br>
 
-<p>🌱 Currently learning **Typescript**</p><br>
+<p>🌱 Currently learning Typescript</p><br>
 
 <p>📫 My LinkedId profile <a href='www.linkedin.com/in/cintia-arce-profile'>here</a></p>
 </div><br>
