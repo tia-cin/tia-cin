@@ -13,22 +13,20 @@
     <p>🔭 Interested in Frontend Development</p>
     <br>
     <p>🌱 Currently learning 
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-            Typescript
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> 
-        </a>
-         ,
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-            MySQL
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> 
-        </a> &
-        <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-            PHP
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> 
-        </a>
+            <a href="https://angular.io" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="20" height="20"/> 
+            </a> ,
+            <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/> 
+            </a> &
+            <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> 
+            </a>
     </p>
     <br>
     <p>📫 My LinkedId profile <a href='www.linkedin.com/in/cintia-arce-profile'>here</a></p>
+    <br>
+    <p> 👨‍💻 All of my projects are available at <a href=https://cintia-arce.vercel.app/> here</a></p>
 </div>
 
 <br>
