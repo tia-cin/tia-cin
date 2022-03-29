@@ -10,7 +10,7 @@
 <br>
 
 <div align='center'> 
-    <p>🔭 Interested in Frontend Development</p>
+    <p>🔭 Interested in Frontend & UX/UI Development</p>
     <br>
     <p>🌱 Currently learning 
             <a href="https://angular.io" target="_blank" rel="noreferrer"> 
