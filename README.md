@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Cintia</h1>
-<h3 align="center">A full-stack developer in progress</h3>
+<h3 align="center">A Full-Stack Developer</h3>
 
 <br>
 
@@ -94,9 +94,6 @@
       <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="70" height="70"/> 
       </a>
-        <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="70" height="70"/> 
-        </a> 
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="70" height="70"/> 
         </a>
