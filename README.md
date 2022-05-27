@@ -12,15 +12,9 @@
 <div align='center'> 
     <p>🔭 Interested in Frontend & UX/UI Development</p>
     <br>
-    <p>🌱 Currently learning 
-            <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="20" height="20"/> 
-            </a> ,
-            <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/> 
-            </a> &
+    <p>🌱 Currently learning
             <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/> 
             </a>
     </p>
     <br>
