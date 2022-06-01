@@ -11,15 +11,12 @@
 
 <div align='center'> 
     <p>🔭 Interested in Frontend & UX/UI Development</p>
-    <br>
     <p>🌱 Currently learning
             <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="18"/> 
             </a>
     </p>
-    <br>
     <p>📫 My LinkedId profile <a href='www.linkedin.com/in/cintia-arce-profile'>here</a></p>
-    <br>
     <p> 👨‍💻 All of my projects are available at my <a href=https://cintia-arce.vercel.app/> portofolio</a></p>
     <p> 🚀 Ask for my resume <a href='mailto:cintiaayelenarce@gmail.com'>here</a></p>
 </div>
