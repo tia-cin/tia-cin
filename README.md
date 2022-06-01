@@ -21,6 +21,7 @@
     <p>📫 My LinkedId profile <a href='www.linkedin.com/in/cintia-arce-profile'>here</a></p>
     <br>
     <p> 👨‍💻 All of my projects are available at my <a href=https://cintia-arce.vercel.app/> portofolio</a></p>
+    <p> 🚀 Ask for my resume <a href='mailto:cintiaayelenarce@gmail.com'>here</a></p>
 </div>
 
 <br>
