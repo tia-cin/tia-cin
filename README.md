@@ -9,9 +9,7 @@
 
 <br>
 
-<div align='center'> 
-    <p>🌱 Currently learning
-            <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> </a></p>
+<div align='center'>
     <p>🔭 Interested in Frontend & UX/UI Development</p>
     <p>📫 My LinkedId profile <a href='www.linkedin.com/in/cintia-arce-profile'>here</a></p>
     <p> 👨‍💻 Check out my <a href=https://cintia-arce.vercel.app/> portofolio</a></p>
