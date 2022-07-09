@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Cintia</h1>
-<h3 align="center">A Full-Stack Developer</h3>
+<h3 align="center">A Full-Stack Development Student</h3>
 
 <br>
 
@@ -10,8 +10,9 @@
 <br>
 
 <div align='center'>
-    <p>🔭 Interested in Frontend & UX/UI Development</p>
-    <p>📫 My LinkedId profile <a href='www.linkedin.com/in/cintia-arce-profile'>here</a></p>
+    <p> 🔭 Interested in Frontend & UX/UI Development</p>
+    <p> 🌱 Learning best practices for better solutions</p>
+    <p> 📫 My LinkedId profile <a href='www.linkedin.com/in/cintia-arce-profile'>here</a></p>
     <p> 👨‍💻 Check out my <a href=https://cintia-arce.vercel.app/> portofolio</a></p>
     <p> 🚀 Talk to me <a href='mailto:cintiaayelenarce@gmail.com'>here</a></p>
 </div>
