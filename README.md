@@ -10,8 +10,7 @@
 <br>
 
 <div align='center'>
-    <p> 🔭 Interested in Frontend & UX/UI Development</p>
-    <p> 🌱 Learning best practices for better solutions</p>
+    <p> 🌱 Learning best practices and new things for better solutions</p>
     <p> 📫 My LinkedId profile <a href='www.linkedin.com/in/cintia-arce-profile'>here</a></p>
     <p> 👨‍💻 Check out my <a href=https://cintia-arce.vercel.app/> portofolio</a></p>
     <p> 🚀 Talk to me <a href='mailto:cintiaayelenarce@gmail.com'>here</a></p>
@@ -37,19 +36,13 @@
     </div>
     <div>
          <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> 
-      </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
-      </a>
-      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> 
-      </a>  
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/> 
-    </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>     </a> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> 
+         </a> 
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+        </a>
+        <a   href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>             </a> 
     </div>    
    
 </div >
@@ -64,6 +57,16 @@
         <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="50" height="50"/> 
       </a>
 
+</div >
+
+<div align='center'>
+    <h3 >Database:</h3>
+       <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> 
+      </a>    
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/> 
+    </a> 
 </div >
  
   <br>
