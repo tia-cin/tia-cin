@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Cintia</h1>
-<h3 align="center">A Full-Stack Development Student</h3>
+<h3 align="center">A Frontend Development Student</h3>
 
 <br>
 
