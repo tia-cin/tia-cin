@@ -10,9 +10,8 @@
 <br>
 
 <div align='center'>
-    <p> 🌱 Learning best practices and new things for better solutions</p>
     <p> 📫 My LinkedId profile <a href='www.linkedin.com/in/cintia-arce-profile'>here</a></p>
-    <p> 👨‍💻 Check out my <a href=https://cintia-arce.vercel.app/> portofolio</a></p>
+    <p> 👨‍💻 Check out my <a href=https://cintia-arce-portofolio.netlify.app/> portofolio</a></p>
     <p> 🚀 Talk to me <a href='mailto:cintiaayelenarce@gmail.com'>here</a></p>
 </div>
 
